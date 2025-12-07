@@ -1,0 +1,5 @@
+# Friday Evaluation (public version)
+# Minimal dependencies for future-safe evaluation extensions
+
+numpy>=1.24.0
+scikit-learn>=1.3.0

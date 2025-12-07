@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+
+# Bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env.local
+.python-env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter (if used in future)
+.ipynb_checkpoints/
+
+# Test outputs
+coverage/
+htmlcov/
+
+# Python tools
+.mypy_cache/
+.pytest_cache/

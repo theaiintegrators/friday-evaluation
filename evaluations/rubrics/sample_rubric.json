@@ -1,0 +1,4 @@
+{
+  "rubric_type": "exact_match",
+  "scoring": "1 for exact match, 0 otherwise"
+}

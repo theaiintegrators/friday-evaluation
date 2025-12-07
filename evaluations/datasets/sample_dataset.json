@@ -1,0 +1,16 @@
+{
+  "tests": [
+    {
+      "input": "1+1",
+      "expected": "2"
+    },
+    {
+      "input": "2+5",
+      "expected": "7"
+    },
+    {
+      "input": "10+1",
+      "expected": "11"
+    }
+  ]
+}
