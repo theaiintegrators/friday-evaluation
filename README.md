@@ -25,6 +25,12 @@ No LLMs or proprietary logic included.
 
 ------------------------------------------------------------------------
 
+## 📘 Friday Evaluation
+
+![Friday Evaluation](./docs/03-public-friday-evaluation.png)
+
+------------------------------------------------------------------------
+
 ## ✨ Features (Public Edition)
 
 -   JSON-defined tasks
